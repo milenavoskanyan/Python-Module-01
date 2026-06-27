@@ -1,5 +1,5 @@
 def main() -> None:
-    name: str = "Rose" 
+    name: str = "Rose"
     height: int = 25
     age: int = 30
 
